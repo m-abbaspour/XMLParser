@@ -55,7 +55,7 @@ If both queues are not empty, peek both queues
 Repeat until both queues are empty
   ```
 
-# Execusion:
+# Execusion
   To run this program use the following format in the command prompt:<br>
   (note: replace the "file" in this command with the XML file wanting to analyze
 	and add the location of the file at the begining of the name of the file if the file 
@@ -63,7 +63,7 @@ Repeat until both queues are empty
   
 ```java -jar Parser.jar file```
   
-# Authors:
+# Authors
   <ul>
     <li>Mahdiyeh Abbaspourmehdiabadi</li>
     <li>Travis Milne</li>
@@ -72,7 +72,7 @@ Repeat until both queues are empty
   </ul>
 
 
-# Known deficiencies:
+# Known deficiencies
 <ol>
 	<li>Closing tags with no start tags are not considred incorrect (This is because of the 
     Kitty Algorithm)</li>
