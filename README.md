@@ -65,10 +65,11 @@ Repeat until both queues are empty
   
 # Authors
   <ul>
-    <li>Mahdiyeh Abbaspourmehdiabadi</li>
-    <li>Travis Milne</li>
+    <li>Mahdiyeh Abbaspour(<a href="https://github.com/m-abbaspour">m-abbaspour</a>)</li>
+    <li>Travis Milne (<a href="https://github.com/TAMilne">TAMilne</a>)</li>
     <li>Kyle Helmer</li>
-    <li>Minjong Park</li>
+    <li>Minjong Park (<a href="https://github.com/mjp9404">mjp9404</>)</li>
+    
   </ul>
 
 
